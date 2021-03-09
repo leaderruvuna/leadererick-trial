@@ -60,14 +60,14 @@
     background-color: aquamarine;
     height: 350px;
 }
-#landing-page input{
+#landing-page #email{
     width: 300px;
     height: 35px;
     border-radius: 3px;
     border: 1px solid aquamarine;
     padding: 1px;
 }
-#landing-page button{
+#landing-page #submit{
     position: relative;
     top: 5px;
     background-color: rgb(155, 148, 161);
@@ -76,6 +76,7 @@
     border-radius: 3px;
     border: 1px solid aquamarine;
     cursor: pointer;
+    color:white;
 }
 #get-started{
     color: white !important;
